@@ -18,9 +18,6 @@
 - 📄 Know about my experiences [www.fzhub.com](www.fzhub.com)
 
 - ⚡ Fun fact **ChatGPT-Plus is my best friend**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
