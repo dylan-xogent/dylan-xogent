@@ -64,13 +64,13 @@
 
 <br clear="both">
 
-<img align="right" height="350" src="https://avatars.githubusercontent.com/u/167574700?v=4"  />
+<img align="right" height="300" src="https://avatars.githubusercontent.com/u/167574700?v=4"  />
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/n2d0wxvvg8twyv4necuiuebhw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n2d0wxvvg8twyv4necuiuebhw&count=6&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n2d0wxvvg8twyv4necuiuebhw&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
