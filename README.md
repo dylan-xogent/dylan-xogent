@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://avatars.githubusercontent.com/u/167574700?v=4"  />
+<img align="right" height="350" src="https://avatars.githubusercontent.com/u/167574700?v=4"  />
 
 ###
 
