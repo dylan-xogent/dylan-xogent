@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! My name is Dylan Johnston and I'm a Cybersecurity & IT Technican from Atlanta, Georgia</h2>
+<h2 align="center">Hey there! My name is Dylan Johnston and I'm a Cybersecurity & IT Technician from Atlanta, Georgia</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/n2d0wxvvg8twyv4necuiuebhw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n2d0wxvvg8twyv4necuiuebhw&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n2d0wxvvg8twyv4necuiuebhw&count=6&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
